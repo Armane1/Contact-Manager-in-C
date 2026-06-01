@@ -41,4 +41,4 @@ Name|Email|Phone
 
 Example:
 
-John Doe|john@gmail.com|0612345678
+Sosso armane|Whoami@gmail.com|0788551253
