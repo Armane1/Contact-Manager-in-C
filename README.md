@@ -1,5 +1,5 @@
 # Contact-Manager-in-C
- // Description  A Mini Simple Contact Management System developed in C.
+ // A Mini Simple Contact Management System developed in C.
 
 The application allows users to:
 
